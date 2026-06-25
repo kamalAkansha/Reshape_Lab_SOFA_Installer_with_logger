@@ -43,9 +43,8 @@ default to `None` — methods that need them check gracefully and skip.
 | `roi_base` | `BoxROI` | optional | ROI stats at init |
 | `roi_spine` | `BoxROI` | optional | ROI stats at init |
 
-From `create_pneumatic_finger` in `Gripper_3F.pyscn` you get back
-`(mo, body_fem, pc, cavity_mo)` — pass all four and you unlock everything
-except ROI stats.
+Whether your .pyscn scene builds a single PneuNet finger or a full gripper, simply pass the main mechanical and 
+cavity objects returned by your builder function to unlock all primary tracking features (except ROI stats).
 
 ---
 
