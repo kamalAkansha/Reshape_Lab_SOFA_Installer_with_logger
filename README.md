@@ -1,4 +1,4 @@
-# SOFA Defrost Bundle — One-Shot Installer
+# SOFA Defrost Bundle — Simplified Setup
 
 Full setup for [DefrostSofaBundle](https://github.com/SofaDefrost/DefrostSofaBundle) with a containerised Podman environment and a modular diagnostic logger for soft pneumatic gripper simulations.
 
