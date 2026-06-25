@@ -32,7 +32,7 @@ The script handles everything in order:
 4. Installs `gripper_logger.py` into the bundle as a Python package (`sofa.gripper_logger`)
 5. Writes the `sofa` launch function to your shell config
 
-Re-running is safe — every step is idempotent.
+Safe re-run of script — every step is idempotent.
 
 ---
 
