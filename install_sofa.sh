@@ -23,7 +23,7 @@
 
 set -euo pipefail
 
-REPO_URL="https://github.com/ARNAVVGUPTAA/Reshape_Lab_SOFA_Installer_with_logger"
+REPO_URL="https://github.com/kamalAkansha/Reshape_Lab_SOFA_Installer_with_logger"
 INSTALL_DIR="${SOFA_INSTALL_DIR:-$HOME/dev/sofa}"
 BUNDLE_VER="${SOFA_BUNDLE_VER:-v22.06.01}"
 PYTHON_VER="${SOFA_PYTHON_VER:-python3.10}"
