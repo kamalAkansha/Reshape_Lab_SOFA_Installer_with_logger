@@ -19,7 +19,7 @@ Full setup for [DefrostSofaBundle](https://github.com/SofaDefrost/DefrostSofaBun
 ## Install
 
 ```bash
-git clone https://github.com/ARNAVVGUPTAA/Reshape_Lab_SOFA_Installer_with_logger
+git clone https://github.com/kamalAkansha/Reshape_Lab_SOFA_Installer_with_logger
 cd Reshape_Lab_SOFA_Installer_with_logger
 bash install_sofa.sh
 ```
